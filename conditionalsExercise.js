@@ -43,7 +43,7 @@ if (randomNum === 2 || randomNum === 4){
   console.log("Equal to 2 OR equal to 4");
 }
 
-// BONUS
+// BONUS SECTION
 // 2
 // Ternaries are good to use in place of a simple IF ELSE statement
 // You can set the returned value of a ternary to a variable
